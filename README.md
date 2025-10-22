@@ -9,11 +9,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -22,7 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=framermotion" height="30" alt="framer motion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gsap" height="30" alt="gsap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -31,13 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=framermotion,gsap" height="30" alt="framer motion and gsap logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:soumilmittal2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -53,6 +56,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Soumilmittal/Soumilmittal/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
