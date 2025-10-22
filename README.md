@@ -4,9 +4,9 @@
 ## 👋 Introduction
 Hi! I'm **Soumil Mittal**, a Designer & Frontend Developer with knowledge of **Framer Motion** and **GSAP Animations**, and an Aspiring Data Analyst.
 
-<!-- Modern Banner GIF -->
+<!-- Modern Coding/Design Banner GIF -->
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Banner GIF" />
+  <img height="250" src="https://media.giphy.com/media/L0BStiYlZP8Ji/giphy.gif" alt="Coding/Design Banner GIF" />
 </div>
 
 ---
@@ -37,12 +37,12 @@ Hi! I'm **Soumil Mittal**, a Designer & Frontend Developer with knowledge of **F
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" />
   <img width="12"/>
-  <!-- Custom logos -->
-  <img src="https://seeklogo.com/images/F/gsap-logo-6BB2D9F208-seeklogo.com.png" height="30" alt="GSAP logo" />
+  <!-- Hosted logos from your repo -->
+  <img src="https://raw.githubusercontent.com/Soumilmittal/Soumilmittal/main/logos/gsap.png" height="30" alt="GSAP logo" />
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/framer/logo/master/Framer/logo.png" height="30" alt="Framer Motion logo" />
+  <img src="https://raw.githubusercontent.com/Soumilmittal/Soumilmittal/main/logos/framer.png" height="30" alt="Framer Motion logo" />
   <img width="12"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" height="30" alt="Figma logo" />
+  <img src="https://raw.githubusercontent.com/Soumilmittal/Soumilmittal/main/logos/figma.png" height="30" alt="Figma logo" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12"/>
