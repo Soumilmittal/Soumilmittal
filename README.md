@@ -1,18 +1,31 @@
-<h2 align="left">Hi 👋! My name is Soumil Mittal and I'm a Designer & Frontend Developer with knowledge of Framer Motion and Animations, and an Aspiring Data Analyst.</h2>
+<!-- ======================== -->
+<!-- 1. INTRODUCTION -->
+<!-- ======================== -->
+<h2 align="left">Hi 👋! I'm Soumil Mittal</h2>
+<p align="left">
+I'm a Designer & Frontend Developer with knowledge of Framer Motion and Animations, and an Aspiring Data Analyst.
+</p>
 
-###
+<!-- Modern Animation GIF -->
+<div align="center">
+  <img height="220" src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" alt="Creative animation GIF" />
+</div>
 
+---
+
+<!-- ======================== -->
+<!-- 2. STATS -->
+<!-- ======================== -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumilmittal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumilmittal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<img align="left" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif"  />
-
-###
-
+<!-- ======================== -->
+<!-- 3. MY TECH STACK -->
+<!-- ======================== -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -24,9 +37,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=framermotion" height="30" alt="framer motion logo"  />
+  <img src="https://skillicons.dev/icons?i=framermotion,gsap" height="30" alt="Framer Motion & GSAP logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gsap" height="30" alt="gsap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -37,8 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+---
 
+<!-- ======================== -->
+<!-- 4. CONNECT WITH ME -->
+<!-- ======================== -->
 <div align="center">
   <a href="mailto:soumilmittal2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -51,12 +67,20 @@
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+<!-- ======================== -->
+<!-- 5. TOTAL PROFILE VISITS -->
+<!-- ======================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Soumilmittal&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
+---
+
+<!-- ======================== -->
+<!-- 6. SNAKE ANIMATION -->
+<!-- ======================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-###
