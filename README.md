@@ -4,10 +4,11 @@
 ## 👋 Introduction
 Hi! I'm **Soumil Mittal**, a Designer & Frontend Developer with knowledge of **Framer Motion** and **GSAP Animations**, and an Aspiring Data Analyst.
 
-<!-- Modern Coding/Design Banner GIF -->
+<!-- Coding / Designing Banner GIF -->
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/L0BStiYlZP8Ji/giphy.gif" alt="Coding/Design Banner GIF" />
+  <img height="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Banner GIF" />
 </div>
+
 
 ---
 
