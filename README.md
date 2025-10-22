@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="left">Hi 👋! My name is Soumil Mittal and I'm a Designer & Frontend Developer with knowledge of Framer Motion and Animations, and an Aspiring Data Analyst.</h2>
 
 ###
