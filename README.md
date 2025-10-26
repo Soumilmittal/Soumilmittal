@@ -84,12 +84,3 @@ Hi! I'm **Soumil Mittal**, a Designer & Frontend Developer with knowledge of **F
   <img src="https://komarev.com/ghpvc/?username=Soumilmittal&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
----
-
-<!-- ======================== -->
-<!-- 6. GITHUB SNAKE ANIMATION -->
-<!-- ======================== -->
-## 🐍 GitHub Contribution Grid
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
